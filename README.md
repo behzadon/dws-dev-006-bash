@@ -45,6 +45,8 @@ Input: ./try.sh
 
 Output: Command was not successful after 12 tries in 60 seconds.
 
+The default value of TRY_INTERVAL=5 and TRY_NUMBER=12 replaced
+
 ---------------------------------------------------------------
 In case you do not pass the command:
 
